@@ -2,7 +2,7 @@
 
 > Концептуальный редизайн сайта промышленного оборудования. Трансформация устаревшего каталога в интерактивный цифровой продукт с фокусом на конверсию и техническую точность.
 
-[![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge&logo=figma)]([ССЫЛКА_НА_ТВОЙ_ПРОТОТИП](https://www.figma.com/proto/c6KoufZFgjeI21E3nCquK5/industrial-project?node-id=41-821&p=f&t=tcNhYM9DUaD7rQZ9-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A821&hide-ui=1))
+[![FIGMA PROTOTYPE](https://img.shields.io/badge/FIGMA-PROTOTYPE-F24E1E?style=for-the-badge&logo=figma)](https://www.figma.com/proto/c6KoufZFgjeI21E3nCquK5/industrial-project?node-id=41-821&p=f&t=tcNhYM9DUaD7rQZ9-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A821&hide-ui=1)
 
 | Документ                            | Описание                                               | Ссылка                                                              |
 | :---------------------------------- | :----------------------------------------------------- | :------------------------------------------------------------------ |
