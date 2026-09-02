@@ -15,11 +15,33 @@
 | H5 | 20 | Текст кнопок, навигационные элементы |
 | H6 | 18 | Основной body-текст, описания |
 ## 2. Цветовые токены (Color Tokens)
+Финальная палитра «Industrial Clean». Строгая функциональная система без декоративного шума.
 
+### Primary (Brand & Action)
 | Token Name | Hex Value | Usage |
 | :--- | :--- | :--- |
-| text_black-color | `#000000` | Основной текст, активные элементы, заголовки |
-| text_black_secondary | `#999999` | Второстепенный текст, плейсхолдеры, disabled states |
+| **OKIYO Orange** | `#FF4E01` → `#FF8332` | Градиент. CTA Buttons, Active States, Focus Rings. Единственный яркий акцент конверсии. |
+| **Deep Blue** | `#070911` → `#315182` | Градиент. Headers, Footer, Hero Backgrounds. Надежность и технологичность. |
+
+### Neutral (Structure & Readability)
+| Token Name | Hex Value | Usage |
+| :--- | :--- | :--- |
+| **Text Primary** | `#000000` | Основной текст, заголовки. Максимальный контраст (AAA). |
+| **Gray Dark** | `#474B4D` | Второстепенный текст, подписи. |
+| **Text Secondary** | `#999999` | Плейсхолдеры, disabled states, мета-информация. |
+| **Border** | `#DCE1E6` | Рамки инпутов, разделители таблиц, границы карточек. |
+| **Gray Light** | `#EEF2F7` | Фоны активных табов, hover-эффекты, информационные плашки. |
+| **Background** | `#F7F8FB` | Общий фон страницы, поверхность под контентом. |
+| **White** | `#FFFFFF` | Карточки товаров, поля ввода, модальные окна. |
+
+### Secondary (Product Identity & UI States)
+| Token Name | Hex Value | Usage |
+| :--- | :--- | :--- |
+| **Teal Medium** | `#002F6C` | Темные акценты продукта, иконки категорий. |
+| **Teal Light** | `#004F9D` | Активные состояния ссылок, прогресс-бары. |
+| **Teal** | `#3BA3A7` | Product Identity. Иллюстрации оборудования, теги, маркеры. |
+| **Teal White** | `#BADEFE` | Фоновые подложки для Teal-элементов, selected tabs. |
+
 ## 3. Логические токены и Состояния (Logic & State Variables)
 ##### А. Валидация Форм (Form Validation)
 *   `form_name`: Статус поля имени (`"none"` → `"click"` → `"valid"`)
