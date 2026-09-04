@@ -5,6 +5,7 @@
 [![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge&logo=figma)](https://www.figma.com/proto/c6KoufZFgjeI21E3nCquK5/OKIYO-industrial-project?node-id=41-821&p=f&t=tcNhYM9DUaD7rQZ9-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A821&hide-ui=1)
 [![Dribbble Shot](https://img.shields.io/badge/Dribbble-Shot-ea4c89?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/27510308-Avatar-Configurator-Gamified-UI-UX-Design-System)
 
+
 <img width="1600" height="1200" alt="1" src="https://github.com/user-attachments/assets/7b143908-3052-47a8-8950-7a64c1554d89" />
 
 
