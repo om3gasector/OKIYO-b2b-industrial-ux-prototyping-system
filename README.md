@@ -13,12 +13,6 @@
     <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-<p>
-  <strong>Автор:</strong> <a href="https://dribbble.com/om3gasector" target="_blank">Валерий Попков</a><br>
-  📍 Samara, Russia • UX/UI Designer<br>
-  📧 <a href="mailto:om3gasector@gmail.com">om3gasector@gmail.com</a> • 
-  💬 <a href="https://t.me/om3gasector" target="_blank">Telegram</a>
-</p>
 
 # СЮДА ВИДОС
 
