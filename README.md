@@ -2,13 +2,28 @@
 
 > Концептуальный редизайн сайта промышленного оборудования. Трансформация устаревшего каталога в интерактивный цифровой продукт с фокусом на конверсию и техническую точность.
 
-[![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge&logo=figma)](https://www.figma.com/proto/c6KoufZFgjeI21E3nCquK5/OKIYO-industrial-project?node-id=41-821&p=f&t=tcNhYM9DUaD7rQZ9-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A821&hide-ui=1)
-[![Dribbble Shot](https://img.shields.io/badge/Dribbble-Shot-ea4c89?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/27510308-Avatar-Configurator-Gamified-UI-UX-Design-System)
+<p>
+  <a href="https://dribbble.com/shots/ТВОЙ_ID_ШОТА" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-Shot-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble">
+  </a>
+  <a href="https://figma.com" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  </a>
+  <a href="https://t.me/lhost24" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
+<p>
+  <strong>Автор:</strong> <a href="https://dribbble.com/om3gasector" target="_blank">Валерий Попков</a><br>
+  📍 Samara, Russia • UX/UI Designer<br>
+  📧 <a href="mailto:om3gasector@gmail.com">om3gasector@gmail.com</a> • 
+  💬 <a href="https://t.me/om3gasector" target="_blank">Telegram</a>
+</p>
 
 # СЮДА ВИДОС
 
 ## О проекте
-Этот проект родился из простого инсайта: промышленный B2B-веб застрял в прошлом. Текстовые стены, отсутствие каталогов и путь до заявки в 5+ кликов убивают конверсию. OKIYO — это ответ на эту проблему. Интерфейс построен на модели **Three-Buyer Blueprint**, закрывая вопросы Инженера, Закупщика и Директора за 1-2 клика.
+Этот проект родился из простого инсайта: промышленный B2B-веб застрял в прошлом. Текстовые стены, отсутствие каталогов и путь до заявки в 5+ кликов убивают конверсию. **Данный проект является ответом на эту проблему.** Интерфейс построен на модели **Three-Buyer Blueprint**, закрывая вопросы Инженера, Закупщика и Директора за 1-2 клика.
 
 ## Документация
 | Документ | Описание |
