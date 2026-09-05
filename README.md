@@ -5,7 +5,7 @@
 [![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge&logo=figma)](https://www.figma.com/proto/c6KoufZFgjeI21E3nCquK5/OKIYO-industrial-project?node-id=41-821&p=f&t=tcNhYM9DUaD7rQZ9-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A821&hide-ui=1)
 [![Dribbble Shot](https://img.shields.io/badge/Dribbble-Shot-ea4c89?style=for-the-badge&logo=dribbble)](https://dribbble.com/shots/27510308-Avatar-Configurator-Gamified-UI-UX-Design-System)
 
-# ВИДОС
+# СЮДА ВИДОС
 
 ## О проекте
 Этот проект родился из простого инсайта: промышленный B2B-веб застрял в прошлом. Текстовые стены, отсутствие каталогов и путь до заявки в 5+ кликов убивают конверсию. OKIYO — это ответ на эту проблему. Интерфейс построен на модели **Three-Buyer Blueprint**, закрывая вопросы Инженера, Закупщика и Директора за 1-2 клика.
