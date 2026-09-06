@@ -12,7 +12,8 @@
   </a>
 </p>
 
-<img width="800" height="480" alt="2026-09-0622 09 33_1-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d85d124f-d213-4600-85e3-ee6ffb314838" />
+<img width="800" height="480" alt="demo" src="https://github.com/user-attachments/assets/2052c9d0-d208-4597-9482-f65ca99cc08e" />
+
 
 # О проекте и проблема
 OKIYO - это концептуальный редизайн корпоративного сайта производителя сложного промышленного оборудования. Это не интернет-магазин, а цифровой инструмент для генерации квалифицированных заявок (RFQ).
