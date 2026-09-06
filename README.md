@@ -1,4 +1,4 @@
-# OKIYO Automation — B2B Industrial Redesign & Functional Prototype
+# OKIYO Automation — B2B Industrial redesign & Functional prototype
 
 <p>
   <a href="https://dribbble.com/shots/ТВОЙ_ID_ШОТА" target="_blank">
