@@ -77,15 +77,11 @@ OKIYO - это концептуальный редизайн корпорати�
 # Стек инструментов
 - **Design & Prototyping:** 
 	Figma (Variables & Design Tokens, Component Properties, Auto Layout, Advanced Prototyping)
-	
 - **3D & Visual:** 
 	Adobe Photoshop, AI-генерация 3D-рендеров каталога (Qwen, Photoroom)
-	
 - **Validation:** 
 	Модераторское юзабилити-тестирование (qualitative, проведено); Maze — программа количественных тестов (миссии, KPI, гипотезы)
-	
 - **Research & Benchmarking:** 
 	As-is аудит (Konvels), конкуренты (Metran, Owen, Vega), global-паттерны (Chevron), B2G-референсы (GISP, CIT)
-	
 - **Documentation:** 
 	Markdown / Obsidian
