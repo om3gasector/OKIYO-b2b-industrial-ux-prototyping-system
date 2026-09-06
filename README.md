@@ -39,6 +39,7 @@ OKIYO - это концептуальный редизайн корпорати�
 | [04 - Метрики и валидация](./04%20-%20Метрики%20и%20валидация.md)                     | Usability-тесты, гипотезы Maze, KPIs               |
 
 
+
 <img width="1600" height="1200" alt="1" src="https://github.com/user-attachments/assets/7b143908-3052-47a8-8950-7a64c1554d89" />
 <img width="1600" height="1200" alt="3" src="https://github.com/user-attachments/assets/e0a58ace-78f3-4283-85ca-7cc84e92830d" />
 <img width="1600" height="1200" alt="4" src="https://github.com/user-attachments/assets/154a8dfe-a233-4c15-9cfd-8735cffe4b18" />
