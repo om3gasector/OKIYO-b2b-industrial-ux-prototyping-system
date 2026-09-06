@@ -11,7 +11,8 @@
     <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
----
+
+СЮДА ВИДОСИК ГИВКОЙ
 
 # О проекте и проблема
 OKIYO - это концептуальный редизайн корпоративного сайта производителя сложного промышленного оборудования. Это не интернет-магазин, а цифровой инструмент для генерации квалифицированных заявок (RFQ).
@@ -38,6 +39,7 @@ OKIYO - это концептуальный редизайн корпорати�
 | [03 - Design System & Logic](./03%20-%20Design%20System%20&%20Prototyping%20Logic.md) | Токены, логика прототипа, Engineering Challenges   |
 | [04 - Метрики и валидация](./04%20-%20Метрики%20и%20валидация.md)                     | Usability-тесты, гипотезы Maze, KPIs               |
 
+---
 
 
 <img width="1600" height="1200" alt="1" src="https://github.com/user-attachments/assets/7b143908-3052-47a8-8950-7a64c1554d89" />
