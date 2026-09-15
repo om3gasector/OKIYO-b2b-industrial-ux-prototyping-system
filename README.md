@@ -37,7 +37,6 @@
 <img width="1600" height="1200" alt="7" src="https://github.com/user-attachments/assets/99c9afb5-8bc0-4325-b9b3-0905287280ff" />
 <img width="1600" height="1200" alt="8" src="https://github.com/user-attachments/assets/cbe9ac89-0aa9-4d0d-967c-c189fcd42400" />
 <img width="1600" height="1200" alt="9" src="https://github.com/user-attachments/assets/4cbfdb28-4fc2-4673-85e5-5872a51c0abc" />
-<img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/2fc19af6-aa50-456f-aa51-f82a3522841a" />
 
 # Технические особенности прототипа
 Прототип реализован в Figma с использованием продвинутых техник эмуляции фронтенда (0 строк кода):
