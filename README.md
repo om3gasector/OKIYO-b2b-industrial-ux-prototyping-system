@@ -7,7 +7,7 @@
   <a href="https://www.figma.com/proto/c6KoufZFgjeI21E3nCquK5/OKIYO-industrial-project?node-id=41-821&starting-point-node-id=41%3A821&scaling=scale-down-width&content-scaling=fixed&hide-ui=1" target="_blank">
     <img src="https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   </a>
-  <a href="https://t.me/lhost24" target="_blank">
+  <a href="https://t.me/om3gasector" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
