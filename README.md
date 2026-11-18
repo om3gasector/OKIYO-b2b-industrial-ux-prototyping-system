@@ -4,7 +4,7 @@
   <a href="https://dribbble.com/shots/27708155-B2B-Industrial-Redesign-Functional-Prototype" target="_blank">
     <img src="https://img.shields.io/badge/Dribbble-Shot-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble">
   </a>
-  <a href="https://www.figma.com/proto/c6KoufZFgjeI21E3nCquK5/OKIYO-industrial-project?node-id=41-821&t=jJSr0xxUmJvJdzYl-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=41%3A821" target="_blank">
+  <a href="https://www.figma.com/proto/c6KoufZFgjeI21E3nCquK5/OKIYO-industrial-project?node-id=41-821&starting-point-node-id=41%3A821&scaling=scale-down-width&content-scaling=fixed&hide-ui=1" target="_blank">
     <img src="https://img.shields.io/badge/Figma-Prototype-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   </a>
   <a href="https://t.me/lhost24" target="_blank">
